@@ -6,7 +6,7 @@
    
 2. Activate the environment:
    ```bash
-   conda activate <environment_name>
+   conda activate tokenizer
    
 3. Run the Python file:
    ```bash
